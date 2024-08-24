@@ -1,2 +1,4 @@
 # 10-K-Reports-and-ESG-Ratings
 Exploring the Relationship Between 10-K Reports and ESG Ratings with Deep Learning in Semiconductor and Hardware
+
+Through a comprehensive analysis of 10-K reports sourced from the SEC’s EDGAR database, this research explores the hypothesis that the language and disclosures within these reports reflect a company’s ESG performance. Various deep learning models, including RNN, LSTM, and GRU, are employed to predict ESG ratings based on the ESG-relevant content identified by FinBERT. The findings reveal significant insights into the consistency of ESG reporting within the semiconductor and hardware industries, discuss briefly about potential instances of greenwashing. Furthermore, the study focus examines the predictive accuracy of the deep learning models in relation to the Bloomberg ESG scores, offering a novel approach to automated ESG analysis.
